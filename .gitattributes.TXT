@@ -1,0 +1,3 @@
+* text=auto eol=lf  # 推荐：Git 会自动判断文件类型并转换行尾符
+*.txt text eol=crlf # 如果你想强制 .txt 文件使用 CRLF
+*.sh text eol=lf   # 如果你想强制 .sh 文件使用 LF
